@@ -35,6 +35,6 @@ Nazywam się Bartłomiej Spadło. Skończyłem studia inżynierskie na Uniwersyt
 
 
 * Moje projekty: 
-  * [1](https://www.google.pl)
-  * [2](https://www.google.pl)
+  * [Testowanie urządzenia złożonego](https://www.google.pl](https://trello.com/b/NdTdoWuW/zmyw3000)
+  * [Testowanie logowania w serwisie serwis.pl](https://www.google.pl)
   
