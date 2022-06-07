@@ -30,6 +30,7 @@ Nazywam się Bartłomiej Spadło. Skończyłem studia inżynierskie na Uniwersyt
 
 * Blogi:
   *  [Remigiusz Bednarczyk](https://remigiuszbednarczyk.pl/)
+  *  [Devenv.pl](https://devenv.pl/)
 
 
 
