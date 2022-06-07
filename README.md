@@ -28,6 +28,11 @@ Nazywam się Bartłomiej Spadło. Skończyłem studia inżynierskie na Uniwersyt
   *  Testowanie oprogramowania
 
 
+* Blogi:
+  *  [Remigiusz Bednarczyk](https://remigiuszbednarczyk.pl/)
+
+
+
 * Moje projekty: 
   * [1](https://www.google.pl)
   * [2](https://www.google.pl)
