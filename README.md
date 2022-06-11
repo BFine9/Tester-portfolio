@@ -3,24 +3,29 @@
 
 # O mnie
 
-Nazywam się Bartłomiej Spadło. Skończyłem studia inżynierskie na Uniwersytecie Mikołaja Kopernika w Toruniu na kierunku informatyka. Pracowałem jako programista, jednak finalnie zacząłem interesować się testowaniem. Moim celem jest rozwijanie się jako tester automatyzujący, zdobywanie nowej wiedzy i poznawanie nowych programów przydatnych w pracy testera. 
-
-
-* Narzędzia:
-  *  Postman - testowanie REST API
-  *  Jira, trello - opisywanie defektów
-  *  Github 
-  *  MS Teams, Slack   
+Nazywam się Bartłomiej Spadło. Skończyłem studia inżynierskie na Uniwersytecie Mikołaja Kopernika w Toruniu w 2021 roku na kierunku informatyka. Pracowałem jako programista, jednak finalnie zacząłem interesować się testowaniem. Moim celem jest rozwijanie się jako tester automatyzujący, zdobywanie nowej wiedzy dotyczącej testowania i programowania,  a także poznawanie nowych narzędzi przydatnych w pracy testera. 
    
    
 * Umiejętności:
   * Programowanie C#, .NET
+  * xUnit, FluentAssertions, Moq
   * Bazy SQL, noSQL 
   * SCRUM
+  * ISTQB
   * Raportowanie błędów
   * Język angielski: B2 
   * Umiejętności miękkie
-  * Teoria z sylabusa ISTQB      
+
+
+* Narzędzia:
+  *  Postman - testowanie REST API
+  *  Jira, trello
+  *  Git 
+  *  MS Teams, Slack   
+   
+
+* Ukończone kursy:
+  * "C# .NET: Testy jednostkowe i integracyjne + praktyka" Jakub Kozera, Udemy
 
 
 * Grupy na Facebooku: 
@@ -34,7 +39,9 @@ Nazywam się Bartłomiej Spadło. Skończyłem studia inżynierskie na Uniwersyt
 
 
 
-* Moje projekty: 
+* Projekty testowe:
   * [Testowanie urządzenia złożonego](https://trello.com/b/NdTdoWuW/zmyw3000)
-  * [Testowanie logowania w serwisie serwis.pl](https://www.google.pl)
+  *
+  *
+  
   
