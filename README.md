@@ -3,7 +3,7 @@
 
 # O mnie
 
-Nazywam się Bartłomiej Spadło. Skończyłem studia inżynierskie na Uniwersytecie Mikołaja Kopernika w Toruniu w 2021 roku na kierunku informatyka. Pracowałem jako programista, jednak finalnie zacząłem interesować się testowaniem. Moim celem jest rozwijanie się jako tester automatyzujący, zdobywanie nowej wiedzy dotyczącej testowania i programowania,  a także poznawanie nowych narzędzi przydatnych w pracy testera. 
+Nazywam się Bartłomiej Spadło. Skończyłem studia inżynierskie na Uniwersytecie Mikołaja Kopernika w Toruniu w 2021 roku na kierunku informatyka. Pracowałem jako programista, jednak finalnie zacząłem interesować się testowaniem. Moim celem jest rozwijanie się jako tester manualny, a z czasem automatyzujący, zdobywanie nowej wiedzy dotyczącej testowania i programowania,  a także poznawanie nowych narzędzi przydatnych w pracy testera. 
    
    
 * Umiejętności:
