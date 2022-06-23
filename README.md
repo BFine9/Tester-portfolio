@@ -14,7 +14,6 @@ Nazywam się Bartłomiej Spadło. Skończyłem studia inżynierskie na Uniwersyt
   * ISTQB
   * Raportowanie błędów
   * Język angielski: B2 
-  * Umiejętności miękkie
 
 
 * Narzędzia:
